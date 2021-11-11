@@ -2,7 +2,8 @@
 <hr>
 <center>
 Emre KAYAN<br>
-Yasin TÜRK</center>
+Yasin TÜRK
+</center>
 <hr>
 <br>
 <p><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/220px-SARS-CoV-2_without_background.png" width=300><br><small><i>Covid-19 virus</i></small></center></p>
